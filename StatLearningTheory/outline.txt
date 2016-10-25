@@ -1,0 +1,18 @@
+Statistical Learning/Machine Learning vs. Statistical Inference
+
+Review of Probability Theory
+
+Algorithms
+
+Risk Minimization: Empirical and Structural
+
+Regularization
+
+Bounds
+
+Hoeffding's Inequality
+
+Estimation Error
+
+Vapnik-Chervonekis Theory
+
